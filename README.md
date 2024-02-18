@@ -1,12 +1,12 @@
 # Uploud Objects to S3 AWS from Simple Website
 
 ## Crete File Environment (.env)
-| environment | Source environment |
+| **Environment** | **Source environment** |
 |--|--|
-| REGION | (Region) |
-| NAME_BUCKET | - |
-| AWS_ACCESS_KEY_ID | - |
-| AWS_SECRET_ACCESS_KEY | - |
+| **REGION** | (Region) |
+| **NAME_BUCKET** | - |
+| **AWS_ACCESS_KEY_ID** | - |
+| **AWS_SECRET_ACCESS_KEY** | - |
 
 ## Font-End Setup
 
