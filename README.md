@@ -1,5 +1,10 @@
 # Uploud Objects to S3 AWS from Simple Website
 
+## Architecture
+
+![image](https://github.com/SonyVansha/website-uploud-to-AWS_S3/assets/152833966/0eb5423d-c726-456f-8852-4d89f4d7ff11)
+
+
 ## Crete File Environment (.env)
 | **Environment** | **Source environment** |
 |--|--|
